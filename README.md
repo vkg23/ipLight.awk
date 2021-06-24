@@ -7,6 +7,9 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
+ipLight.awk reprints any text input with appended status of IP (GREEN,OK) OR (RED,NOK)
+No need to loop or parse output separately. 
+
 ### Prerequisites
 Shell with AWK ready . 
 
