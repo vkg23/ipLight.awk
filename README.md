@@ -15,7 +15,8 @@ Example:
 * shell
   ```
   ifconfig | awk -f ipLight.awk
-  - cat "file with output any text with IP in any order" | awk -f pLight.awk
+  cat "file with output any text with IP in any order" | awk  -f ipLight.awk
+  
   ```
 
 ### Installation
